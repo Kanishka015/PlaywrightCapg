@@ -1,0 +1,17 @@
+
+# Dependencies
+node_modules/
+
+# Playwright generated artifacts
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+test-data/
+tmp-sanity.png
+
+# Editor / local environment
+.vscode/
+.DS_Store
+*.log
